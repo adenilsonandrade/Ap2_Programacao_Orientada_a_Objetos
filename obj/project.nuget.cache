@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kBlJwX4hqu0WkhQEfii9fVypLn0Htn6jIPi7oIlHE8rwoxaeX9tJvEVaPIaXqGkaPMK0grosXW4sMIQtYSTEow==",
+  "dgSpecHash": "+a5IwYrYRGlw9lcN0zY9u4DQdx5MiGL3ohGLvPspX+Wg0nPDMend0R2b9z9ljzROsvESIzzH7N3I392YgyaVxg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adeni\\Meu Drive (adenilson@rede.ulbra.br)\\ULBRA\\2023 - 1\\Programação Orientada a objetos - Cássio\\2023 05 24 AP2\\2023 05 24 AP2.csproj",
+  "projectFilePath": "C:\\Users\\adeni\\Meu Drive (adenilson@rede.ulbra.br)\\ULBRA\\GitHub\\Ap2_Programacao_Orientada_a_Objetos\\2023 05 24 AP2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adeni\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\adeni\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.5\\microsoft.data.sqlite.core.7.0.5.nupkg.sha512",
