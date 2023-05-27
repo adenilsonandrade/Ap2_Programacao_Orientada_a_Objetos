@@ -335,7 +335,7 @@ namespace _2023_05_24_AP2.Domain.Entities
                             Console.WriteLine("Vendas:");
                             foreach (var venda in vendas)
                             {
-                                Console.WriteLine($"ID: {venda.Id}, Cliente: {venda.Cliente.Id}, Total: {venda.Total}");
+                                Console.WriteLine($"Venda ID: {venda.Id}, Cliente: {venda.ClienteId}, Total: {venda.Total}, Data Hora: {venda.Data} ");
                             }
                         }
 
@@ -371,10 +371,9 @@ namespace _2023_05_24_AP2.Domain.Entities
                                 }
                             }
                             venda.EfetuarVenda();
+                            vendaRepository.Save(venda);
 
-                            // vendaRepository.Save(venda);
-
-                            Console.WriteLine($"Venda Id: {venda.Id}, Cliente: {venda.Cliente.Nome}, Total: {venda.Total}");
+                            Console.WriteLine($"Venda Id: {venda.Id}, Cliente: {venda.ClienteId}, Total: {venda.Total}");
                         }
                         break;
                     case "4":

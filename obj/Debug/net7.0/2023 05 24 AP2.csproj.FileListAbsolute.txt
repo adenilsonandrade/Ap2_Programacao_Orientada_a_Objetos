@@ -59,3 +59,11 @@ C:\Users\adeni\Meu Drive (adenilson@rede.ulbra.br)\ULBRA\2023 - 1\Programação 
 C:\Users\adeni\Meu Drive (adenilson@rede.ulbra.br)\ULBRA\2023 - 1\Programação Orientada a objetos - Cássio\2023 05 24 AP2\obj\Debug\net7.0\2023 05 24 AP2.pdb
 C:\Users\adeni\Meu Drive (adenilson@rede.ulbra.br)\ULBRA\2023 - 1\Programação Orientada a objetos - Cássio\2023 05 24 AP2\obj\Debug\net7.0\2023 05 24 AP2.genruntimeconfig.cache
 C:\Users\adeni\Meu Drive (adenilson@rede.ulbra.br)\ULBRA\2023 - 1\Programação Orientada a objetos - Cássio\2023 05 24 AP2\obj\Debug\net7.0\ref\2023 05 24 AP2.dll
+C:\Users\adeni\Meu Drive (adenilson@rede.ulbra.br)\ULBRA\GitHub\Ap2_Programacao_Orientada_a_Objetos\obj\Debug\net7.0\2023 05 24 AP2.csproj.AssemblyReference.cache
+C:\Users\adeni\Meu Drive (adenilson@rede.ulbra.br)\ULBRA\GitHub\Ap2_Programacao_Orientada_a_Objetos\obj\Debug\net7.0\2023 05 24 AP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adeni\Meu Drive (adenilson@rede.ulbra.br)\ULBRA\GitHub\Ap2_Programacao_Orientada_a_Objetos\obj\Debug\net7.0\2023 05 24 AP2.AssemblyInfoInputs.cache
+C:\Users\adeni\Meu Drive (adenilson@rede.ulbra.br)\ULBRA\GitHub\Ap2_Programacao_Orientada_a_Objetos\obj\Debug\net7.0\2023 05 24 AP2.AssemblyInfo.cs
+C:\Users\adeni\Meu Drive (adenilson@rede.ulbra.br)\ULBRA\GitHub\Ap2_Programacao_Orientada_a_Objetos\obj\Debug\net7.0\2023 05 24 AP2.csproj.CoreCompileInputs.cache
+C:\Users\adeni\Meu Drive (adenilson@rede.ulbra.br)\ULBRA\GitHub\Ap2_Programacao_Orientada_a_Objetos\obj\Debug\net7.0\2023 05 24 AP2.dll
+C:\Users\adeni\Meu Drive (adenilson@rede.ulbra.br)\ULBRA\GitHub\Ap2_Programacao_Orientada_a_Objetos\obj\Debug\net7.0\refint\2023 05 24 AP2.dll
+C:\Users\adeni\Meu Drive (adenilson@rede.ulbra.br)\ULBRA\GitHub\Ap2_Programacao_Orientada_a_Objetos\obj\Debug\net7.0\2023 05 24 AP2.pdb

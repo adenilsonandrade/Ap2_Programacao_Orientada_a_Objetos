@@ -10,16 +10,17 @@ namespace _2023_05_24_AP2.Domain.Entities
     public class Venda
     {
         public int Id { get; set; }
+        public int ClienteId { get; set; }
         public Cliente Cliente { get; set; }
         public List<ProdutoVenda> Produtos { get; set; }
-        public DateTime Data { get; set; }
+        public DateTime Data { get; set; } = DateTime.Now;
         public double Total { get; set; }
 
         public Venda() { }
 
         public Venda(Cliente cliente)
         {
-            Cliente = cliente;
+            ClienteId = cliente.Id;
             Produtos = new List<ProdutoVenda>();
         }
 

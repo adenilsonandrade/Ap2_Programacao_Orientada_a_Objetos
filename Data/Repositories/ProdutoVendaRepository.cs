@@ -9,7 +9,7 @@ namespace _2023_05_24_AP2.Data.Repositories
 {
     public class ProdutoVendaRepository : IProdutoVendaRepository
     {
-       private readonly DataContext context;
+        private readonly DataContext context;
         public ProdutoVendaRepository(DataContext context)
         {
             this.context = context;
@@ -43,6 +43,6 @@ namespace _2023_05_24_AP2.Data.Repositories
         {
             context.ProdutosVendas.Update(entity);
             context.SaveChanges();
-        } 
+        }
     }
 }

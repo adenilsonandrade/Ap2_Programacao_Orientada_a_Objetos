@@ -10,11 +10,9 @@ namespace _2023_05_24_AP2.Domain.Entities
 {
     public class Program
     {
-
         public static void Main(string[] args)
         {
             Menu.Exibir();
-
         }
     }
 }
